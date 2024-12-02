@@ -1,7 +1,5 @@
 # Risk-vs-Return-Cluster-Model
 
-# Risk-vs-Return-Cluster-Model
-
 This project aims to analyze and cluster S&P 500 companies based on their risk (Beta) and return (1-Year Return %). The clustering is performed using the K-Means algorithm, and the results are visualized in a scatter plot.
 
 ## Table of Contents
